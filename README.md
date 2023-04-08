@@ -1,2 +1,2 @@
-# my-blog-membuat-nav
-desain navbar responsif dgn css js
+# desain navbar responsif dgn css js
+link https://anjastabuni.github.io/my-blog-membuat-nav/
